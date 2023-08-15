@@ -10,6 +10,8 @@ Passionate about technology and cybersecurity enthusiast with a focus on Red Tea
 <img src="https://gitlab.com/uploads/-/system/project/avatar/40090554/kali-burpsuite.png" alt="Burpsuite" width="50" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Parrot_Logo.png/506px-Parrot_Logo.png" alt="Parrot" width="50" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Kali-dragon-icon.svg/2048px-Kali-dragon-icon.svg.png" alt="Kali" width="50" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Vmware_workstation_16_icon.svg/2051px-Vmware_workstation_16_icon.svg.png" alt="vmware" width="50" />
+<img src="https://cdn.icon-icons.com/icons2/195/PNG/256/VirtualBox_23525.png" alt="virtualbox" width="50" />
 <img src="https://nmap.org/images/nmap-logo-256x256.png" alt="nmap" width="50" />
 <img src="https://cdn.icon-icons.com/icons2/1508/PNG/512/wireshark_104082.png" alt="wireshark" width="50" />
 <img src="https://www.kali.org/tools/hydra/images/hydra-logo.svg" alt="hydra" width="50" />
