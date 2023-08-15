@@ -15,6 +15,19 @@ Passionate about technology and cybersecurity enthusiast with a focus on Red Tea
 <img src="https://www.kali.org/tools/hydra/images/hydra-logo.svg" alt="hydra" width="50" />
 <img src="https://www.kali.org/tools/hashcat/images/hashcat-logo.svg" alt="hashcat" width="50" />
 <img src="https://www.kali.org/tools/john/images/john-logo.svg" alt="john" width="50" />
+<img src="https://www.kali.org/tools/maltego/images/maltego-logo.svg" alt="maltego" width="50" />
+<img src="https://www.kali.org/tools/wfuzz/images/wfuzz-logo.svg" alt="wfuzz" width="50" />
+<img src="https://www.kali.org/tools/crackmapexec/images/crackmapexec-logo.svg" alt="crackmapexec" width="50" />
+<img src="https://www.kali.org/tools/crunch/images/crunch-logo.svg" alt="crunch" width="50" />
+<img src="https://www.kali.org/tools/aircrack-ng/images/aircrack-ng-logo.svg" alt="air-crack" width="50" />
+<img src="https://www.kali.org/tools/tcpdump/images/tcpdump-logo.svg" alt="tcpdumpk" width="50" />
+<img src="https://www.kali.org/tools/sherlock/images/sherlock-logo.svg" alt="sherlock" width="50" />
+<img src="https://www.kali.org/tools/responder/images/responder-logo.svg" alt="responder" width="50" />
+
+
+
+
+
 
 
 
