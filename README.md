@@ -2,7 +2,7 @@
 Passionate about technology and cybersecurity enthusiast with a focus on Red Teaming. Eager to learn, excel, and contribute to transformative projects. 23 years old from Ecuador, poised to make a mark in the tech world. Join me on this journey of innovation and exploration.
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/andresruizzzzz) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/andresruizzzzzz) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alberto-carrasco-ruiz-55458a165) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@xD4nt3) 
 
 # 💻 Languages and Tools:
@@ -25,7 +25,15 @@ Passionate about technology and cybersecurity enthusiast with a focus on Red Tea
 <img src="https://www.kali.org/tools/tcpdump/images/tcpdump-logo.svg" alt="tcpdumpk" width="50" />
 <img src="https://www.kali.org/tools/sherlock/images/sherlock-logo.svg" alt="sherlock" width="50" />
 <img src="https://www.kali.org/tools/responder/images/responder-logo.svg" alt="responder" width="50" />
+<img src="https://www.kali.org/tools/evil-winrm/images/evil-winrm-logo.svg" alt="evil-winrm" width="50" />
+<img src="https://www.kali.org/tools/netcat/images/netcat-logo.svg" alt="netcat" width="50" />
+<img src="https://www.kali.org/tools/powershell/images/powershell-logo.svg" alt="powershell" width="50" />
+<img src="https://www.kali.org/tools/metasploit-framework/images/metasploit-framework-logo.svg" alt="metasploit" width="50" />
 
+
+
+# 👨🏻‍💻 CTF Player in:
+<img src="https://static-00.iconduck.com/assets.00/hack-the-box-icon-1024x1024-4ufmqn5r.png" alt="hackthebox" width="100" />
 
 
 
