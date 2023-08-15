@@ -14,7 +14,7 @@ Passionate about technology and cybersecurity enthusiast with a focus on Red Tea
 <img src="https://cdn.icon-icons.com/icons2/1508/PNG/512/wireshark_104082.png" alt="wireshark" width="50" />
 <img src="https://www.kali.org/tools/hydra/images/hydra-logo.svg" alt="hydra" width="50" />
 <img src="https://www.kali.org/tools/hashcat/images/hashcat-logo.svg" alt="hashcat" width="50" />
-
+<img src="https://www.kali.org/tools/john/images/john-logo.svg" alt="john" width="50" />
 
 
 
