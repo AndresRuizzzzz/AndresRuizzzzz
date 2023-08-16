@@ -37,7 +37,6 @@ Passionate about technology and cybersecurity enthusiast with a focus on Red Tea
 <img src="https://www.kali.org/tools/sqlmap/images/sqlmap-logo.svg" alt="sqlmap" width="50" />
 <img src="https://www.kali.org/tools/beef-xss/images/beef-xss-logo.svg" alt="beef" width="50" />
 <img src="https://www.kali.org/tools/ghidra/images/ghidra-logo.svg" alt="ghidra" width="50" />
-<img src="https://avatars.githubusercontent.com/u/7937360?s=280&v=4" alt="x64dbg" width="50" />
 
 
 
