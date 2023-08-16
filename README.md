@@ -33,7 +33,8 @@ Passionate about technology and cybersecurity enthusiast with a focus on Red Tea
 <img src="https://www.kali.org/tools/bloodhound/images/bloodhound-logo.svg" alt="bloodhound" width="50" />
 <img src="https://www.kali.org/tools/gobuster/images/gobuster-logo.svg" alt="gobuster" width="50" />
 <img src="https://www.kali.org/tools/mimikatz/images/mimikatz-logo.svg" alt="mimikats" width="50" />
-
+<img src="https://www.kali.org/tools/sqlmap/images/sqlmap-logo.svg" alt="sqlmap" width="50" />
+<img src="https://www.kali.org/tools/beef-xss/images/beef-xss-logo.svg" alt="beef" width="50" />
 
 
 
