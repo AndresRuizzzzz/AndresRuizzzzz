@@ -29,10 +29,16 @@ Passionate about technology and cybersecurity enthusiast with a focus on Red Tea
 <img src="https://www.kali.org/tools/netcat/images/netcat-logo.svg" alt="netcat" width="50" />
 <img src="https://www.kali.org/tools/powershell/images/powershell-logo.svg" alt="powershell" width="50" />
 <img src="https://www.kali.org/tools/metasploit-framework/images/metasploit-framework-logo.svg" alt="metasploit" width="50" />
+<img src="https://www.kali.org/tools/ffuf/images/ffuf-logo.svg" alt="ffuf" width="50" />
+<img src="https://www.kali.org/tools/bloodhound/images/bloodhound-logo.svg" alt="bloodhound" width="50" />
+<img src="https://www.kali.org/tools/gobuster/images/gobuster-logo.svg" alt="gobuster" width="50" />
+<img src="https://www.kali.org/tools/mimikatz/images/mimikatz-logo.svg" alt="mimikats" width="50" />
 
 
 
-# 👨🏻‍💻 CTF Player in:
+
+
+# 👨🏻‍💻 CTF Player:
 [<img src="https://static-00.iconduck.com/assets.00/hack-the-box-icon-1024x1024-4ufmqn5r.png" alt="hackthebox" width="100"/>](https://app.hackthebox.com/profile/1430261)
 [<img src="https://assets.tryhackme.com/img/logo/tryhackme_logo_full.svg" alt="tryhackme" width="100"/>](https://tryhackme.com/p/AndresRuiz.sh)
 [<img src="https://hackmyvm.eu/img/logo.png" alt="hackmyvm" width="100"/>](https://hackmyvm.eu/profile/?user=xD4nt3)
