@@ -37,7 +37,8 @@ Passionate about technology and cybersecurity enthusiast with a focus on Red Tea
 [<img src="https://assets.tryhackme.com/img/logo/tryhackme_logo_full.svg" alt="tryhackme" width="100"/>](https://tryhackme.com/p/AndresRuiz.sh)
 [<img src="https://hackmyvm.eu/img/logo.png" alt="hackmyvm" width="100"/>](https://hackmyvm.eu/profile/?user=xD4nt3)
 <img src="https://avatars.githubusercontent.com/u/14081133?s=280&v=4" alt="vulnhub" width="100" />
-
+<br>
+<img src="https://raw.githubusercontent.com/AndresRuizzzzz/blog/master/HTB.png" alt="HTBProfile" width="100" />
 
 
 
