@@ -28,7 +28,6 @@ Passionate about technology and cybersecurity enthusiast with a focus on Red Tea
 <img src="https://www.kali.org/tools/responder/images/responder-logo.svg" alt="responder" width="50" />
 <img src="https://www.kali.org/tools/evil-winrm/images/evil-winrm-logo.svg" alt="evil-winrm" width="50" />
 <img src="https://www.kali.org/tools/netcat/images/netcat-logo.svg" alt="netcat" width="50" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Obsidian_software_logo.svg/1200px-Obsidian_software_logo.svg.png" alt="obsidian" width="50" />
 <img src="https://www.kali.org/tools/powershell/images/powershell-logo.svg" alt="powershell" width="50" />
 <img src="https://www.kali.org/tools/metasploit-framework/images/metasploit-framework-logo.svg" alt="metasploit" width="50" />
 <img src="https://www.kali.org/tools/ffuf/images/ffuf-logo.svg" alt="ffuf" width="50" />
