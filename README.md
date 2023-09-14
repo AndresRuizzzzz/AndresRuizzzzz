@@ -1,5 +1,5 @@
 # 💫 About Me:
-Passionate about technology and cybersecurity enthusiast with a focus on Red Teaming. Eager to learn, excel, and contribute to transformative projects. 23 years old from Ecuador, poised to make a mark in the tech world. Join me on this journey of innovation and exploration.
+Passionate about technology and programming, enthusiastic about cybersecurity with a focus on Red Teaming. Eager to learn, excel and contribute to transformative projects. 23 years old from Ecuador, ready to make my mark in the world of technology. Join me on this journey of innovation and exploration.
 
 
 # 🌐 Socials:
